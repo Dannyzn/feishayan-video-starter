@@ -1,0 +1,14 @@
+{
+  "duration": 8,
+  "fps": 24,
+  "width": 1080,
+  "height": 1920,
+  "spread": {
+    "start": 0.6,
+    "end": 3.6
+  },
+  "overflow": {
+    "start": 4.1,
+    "end": 6.4
+  }
+}
